@@ -1,0 +1,9 @@
+python-telegram-bot
+python-binance
+aiosqlite
+aiohttp
+python-dotenv
+pandas
+pandas-ta
+numpy
+apscheduler
